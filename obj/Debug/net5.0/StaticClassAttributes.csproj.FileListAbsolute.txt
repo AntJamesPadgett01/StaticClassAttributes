@@ -1,0 +1,15 @@
+C:\Users\antho\repos\StaticClassAttributes\bin\Debug\net5.0\StaticClassAttributes.exe
+C:\Users\antho\repos\StaticClassAttributes\bin\Debug\net5.0\StaticClassAttributes.deps.json
+C:\Users\antho\repos\StaticClassAttributes\bin\Debug\net5.0\StaticClassAttributes.runtimeconfig.json
+C:\Users\antho\repos\StaticClassAttributes\bin\Debug\net5.0\StaticClassAttributes.runtimeconfig.dev.json
+C:\Users\antho\repos\StaticClassAttributes\bin\Debug\net5.0\StaticClassAttributes.dll
+C:\Users\antho\repos\StaticClassAttributes\bin\Debug\net5.0\ref\StaticClassAttributes.dll
+C:\Users\antho\repos\StaticClassAttributes\bin\Debug\net5.0\StaticClassAttributes.pdb
+C:\Users\antho\repos\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.AssemblyInfoInputs.cache
+C:\Users\antho\repos\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.AssemblyInfo.cs
+C:\Users\antho\repos\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.dll
+C:\Users\antho\repos\StaticClassAttributes\obj\Debug\net5.0\ref\StaticClassAttributes.dll
+C:\Users\antho\repos\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.pdb
+C:\Users\antho\repos\StaticClassAttributes\obj\Debug\net5.0\StaticClassAttributes.genruntimeconfig.cache
